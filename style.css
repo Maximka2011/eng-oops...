@@ -56,3 +56,12 @@
         align-items: center;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .nothing_down_text {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+}
